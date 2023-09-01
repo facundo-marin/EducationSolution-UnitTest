@@ -1,0 +1,13 @@
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\bin\Debug\net6.0\Education.Domain.deps.json
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\bin\Debug\net6.0\Education.Domain.runtimeconfig.json
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\bin\Debug\net6.0\Education.Domain.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\bin\Debug\net6.0\Education.Domain.pdb
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\obj\Debug\net6.0\Education.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\obj\Debug\net6.0\Education.Domain.AssemblyInfoInputs.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\obj\Debug\net6.0\Education.Domain.AssemblyInfo.cs
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\obj\Debug\net6.0\Education.Domain.csproj.CoreCompileInputs.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\obj\Debug\net6.0\Education.Domain.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\obj\Debug\net6.0\refint\Education.Domain.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\obj\Debug\net6.0\Education.Domain.pdb
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\obj\Debug\net6.0\Education.Domain.genruntimeconfig.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Domain\obj\Debug\net6.0\ref\Education.Domain.dll

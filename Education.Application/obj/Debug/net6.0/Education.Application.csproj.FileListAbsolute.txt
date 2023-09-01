@@ -1,0 +1,17 @@
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\bin\Debug\net6.0\Education.Application.deps.json
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\bin\Debug\net6.0\Education.Application.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\bin\Debug\net6.0\Education.Application.pdb
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\bin\Debug\net6.0\Education.Domain.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\bin\Debug\net6.0\Education.Persistence.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\bin\Debug\net6.0\Education.Domain.pdb
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\bin\Debug\net6.0\Education.Persistence.pdb
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\Education.Application.csproj.AssemblyReference.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\Education.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\Education.Application.AssemblyInfoInputs.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\Education.Application.AssemblyInfo.cs
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\Education.Application.csproj.CoreCompileInputs.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\Education.Application.csproj.CopyComplete
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\Education.Application.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\refint\Education.Application.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\Education.Application.pdb
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Application\obj\Debug\net6.0\ref\Education.Application.dll

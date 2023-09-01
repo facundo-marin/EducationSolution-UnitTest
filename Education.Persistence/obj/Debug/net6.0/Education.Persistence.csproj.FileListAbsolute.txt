@@ -1,0 +1,17 @@
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\bin\Debug\net6.0\Education.Persistence.deps.json
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\bin\Debug\net6.0\Education.Persistence.runtimeconfig.json
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\bin\Debug\net6.0\Education.Persistence.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\bin\Debug\net6.0\Education.Persistence.pdb
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\bin\Debug\net6.0\Education.Domain.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\bin\Debug\net6.0\Education.Domain.pdb
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\Education.Persistence.csproj.AssemblyReference.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\Education.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\Education.Persistence.AssemblyInfoInputs.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\Education.Persistence.AssemblyInfo.cs
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\Education.Persistence.csproj.CoreCompileInputs.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\Education.Persistence.csproj.CopyComplete
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\Education.Persistence.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\refint\Education.Persistence.dll
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\Education.Persistence.pdb
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\Education.Persistence.genruntimeconfig.cache
+C:\Repos Cursos\Unit Test\EducationSolution\Education.Persistence\obj\Debug\net6.0\ref\Education.Persistence.dll
